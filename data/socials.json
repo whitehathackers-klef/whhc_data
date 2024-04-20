@@ -1,0 +1,29 @@
+{
+    "socials":[
+        {
+            "platform":"facebook",
+            "placeholder": "facebook/whitehathackers",
+            "link": "https://www.facebook.com/whitehathackers"
+        },
+        {
+            "platform":"twitter",
+            "placeholder": "twitter/whitehathackers",
+            "link": "https://www.twitter.com/whitehathackers"
+        },
+        {
+            "platform":"linkedin",
+            "placeholder": "linkedin/whitehathackers",
+            "link": "https://www.linkedin.com/whitehathackers"
+        },
+        {
+            "platform":"instagram",
+            "placeholder": "instagram/whitehathackers",
+            "link": "https://www.instagram.com/whitehathackers"
+        },
+        {
+            "platform":"youtube",
+            "placeholder": "youtube/whitehathackers",
+            "link": "https://www.youtube.com/whitehathackers"
+        }
+    ]
+}

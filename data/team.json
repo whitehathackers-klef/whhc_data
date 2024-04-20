@@ -1,0 +1,288 @@
+{
+    "team_y21":[
+        {
+            "id": 1,
+            "name": "Venkata Sai Ram Reddy",
+            "image": "/team_images/john_doe.jpg",
+            "position": "Club Lead",
+            "title": "President",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/johndoe"
+        },
+        {
+            "id": 2,
+            "name": "Pranavi Boyina",
+            "image": "/team_images/jane_smith.jpg",
+            "position": "Club Lead",
+            "title": "Vice President",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/janesmith"
+        },
+        {
+            "id": 3,
+            "name": "Arjun S",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Director",
+            "title": "Director of Technology",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 4,
+            "name": "Hari Karthik V",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Director",
+            "title": "Director of Designing and Planning",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 5,
+            "name": "Durjoy Majumdar",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Director",
+            "title": "Director of Research and Development",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 6,
+            "name": "Asrith G",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Director",
+            "title": "Director of Internal and External Relations",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 7,
+            "name": "Akshay Kumar V",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Director",
+            "title": "Director of Certifications and Vouchers",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 8,
+            "name": "Kowshik E",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Techinal Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 9,
+            "name": "Sai Krishna G",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Techinal Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 10,
+            "name": "Varun Balaji G",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Techinal Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 11,
+            "name": "Nivas Chowdary V",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Techinal Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 12,
+            "name": "Kiran K",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Techinal Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 13,
+            "name": "Usha Kiran A",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Techinal Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 14,
+            "name": "Surya Teja K",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Professional Development Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },  
+        {
+            "id": 15,
+            "name": "Chaitanya Sravanthi K",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Professional Development Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 16,
+            "name": "Kavya Sravani G",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Social Media and Public Relations",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        }
+      
+    ],
+
+    "team_y20":[
+        {
+            "id": 1,
+            "name": "Bondali Sri Harsha Sai Singh",
+            "image": "/team_images/john_doe.jpg",
+            "position": "Club Lead",
+            "title": "President",
+            "linkedin_url": "https://www.linkedin.com/in/johndoe",
+            "portfolio_url": "https://www.johndoe.com"
+        },
+        {
+            "id": 2,
+            "name": "Mohammed Fathima",
+            "image": "/team_images/jane_smith.jpg",
+            "position": "Club Lead",
+            "title": "Vice-President",
+            "linkedin_url": "https://www.linkedin.com/in/janesmith",
+            "portfolio_url": "https://www.janesmith.com"
+        },
+        {
+            "id": 3,
+            "name": "Ramu Singamsetty",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Director",
+            "title": "Director of Technology",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 4,
+            "name": "Manchupally Jahnavi",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Director",
+            "title": "Director of Designing and Planning",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 5,
+            "name": "Koneru Kamal Koushik",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Director",
+            "title": "Director of Research and Development",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 6,
+            "name": "Konala Sree Umadevi",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Director",
+            "title": "Director of Internal and External Relations",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 7,
+            "name": "Phalguni Pradhan",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Director",
+            "title": "Director of Certifications and Vouchers",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 8,
+            "name": "T.S.N.V.S.Sirisha",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Techinal Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 9,
+            "name": "Sri Teja Chadalawada",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Techinal Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 10,
+            "name": "Gnana Amrutha",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Techinal Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 11,
+            "name": "Revanth Sunkara",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Techinal Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 12,
+            "name": "Varsha Chebolu",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Techinal Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 13,
+            "name": "K Naga Sasank",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Techinal Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },
+        {
+            "id": 14,
+            "name": "Jatla Nikhil Sai Lalith",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Professional Development Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        },  
+        {
+            "id": 15,
+            "name": "Shaik Rabbani",
+            "image": "/team_images/alice_johnson.jpg",
+            "position": "Core Team Member",
+            "title": "Professional Development Chair",
+            "year": 2021,
+            "linkedin_url": "https://www.linkedin.com/in/alicejohnson"
+        }
+    ]
+}
+  

@@ -1,0 +1,25 @@
+{
+    "blogs":[
+    {
+        "title":"Blog1",
+        "link": "https://www.google.com",
+        "description": "This is a blog about something.",
+        "date": "2020-01-01",
+        "author": "John Doe"
+    },
+    {
+        "title":"Blog2",
+        "link": "https://www.google.com",
+        "description": "This is a blog about something.",
+        "date": "2020-01-01",
+        "author": "John Doe"
+    },
+    {
+        "title":"Blog3",
+        "link": "https://www.google.com",
+        "description": "This is a blog about something.",
+        "date": "2020-01-01",
+        "author": "John Doe"
+    }
+
+]}

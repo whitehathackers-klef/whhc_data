@@ -1,0 +1,121 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "All About CTF",
+      "description": "Description of Event 1",
+      "poster": "path/to/poster1.jpg",
+      "date": "2024-02-10",
+      "start_time": "10:00:00",
+      "end_time": "15:00:00",
+      "venue": "Venue 1",
+      "organiser": "Organiser 1",
+      "registration_link": "http://registration.link/event1",
+      "feedback_link": "http://feedback.link/event1"
+    },
+    {
+      "id": 2,
+      "title": "CTF -2 Hacking LLMs",
+      "description": "Description of Event 2",
+      "poster": "path/to/poster2.jpg",
+      "date": "2024-02-11",
+      "start_time": "12:00:00",
+      "end_time": "17:00:00",
+      "venue": "Venue 2",
+      "organiser": "Organiser 1",
+      "registration_link": "http://registration.link/event2",
+      "feedback_link": "http://feedback.link/event2"
+    },
+    {
+      "id": 3,
+      "title": "Breaking down hacking scenes",
+      "description": "Description of Event 3",
+      "poster": "path/to/poster3.jpg",
+      "date": "2024-02-12",
+      "start_time": "17:00:00",
+      "end_time": "19:00:00",
+      "venue": "Venue 3",
+      "organiser": "Organiser 1",
+      "registration_link": "http://registration.link/event3",
+      "feedback_link": "http://feedback.link/event3"
+    },{
+      "id": 4,
+      "title": "Intoduction to SQL Injection",
+      "description": "Description of Event 3",
+      "poster": "path/to/poster3.jpg",
+      "date": "2024-02-29",
+      "start_time": "17:00:00",
+      "end_time": "19:00:00",
+      "venue": "Venue 3",
+      "organiser": "Organiser 1",
+      "registration_link": "http://registration.link/event3",
+      "feedback_link": "http://feedback.link/event3"
+    },
+    {
+      "id": 5,
+      "title": "Lazy Thinking, Eazy Targets",
+      "description": "Description of Event 3",
+      "poster": "path/to/poster3.jpg",
+      "date": "2024-03-12",
+      "start_time": "17:00:00",
+      "end_time": "19:00:00",
+      "venue": "Venue 3",
+      "organiser": "Organiser 1",
+      "registration_link": "http://registration.link/event3",
+      "feedback_link": "http://feedback.link/event3"
+    },
+    {
+      "id": 6,
+      "title": "Lazy Thinking, Eazy Targets",
+      "description": "Description of Event 3",
+      "poster": "path/to/poster3.jpg",
+      "date": "2024-03-12",
+      "start_time": "17:00:00",
+      "end_time": "19:00:00",
+      "venue": "Venue 3",
+      "organiser": "Organiser 1",
+      "registration_link": "http://registration.link/event3",
+      "feedback_link": "http://feedback.link/event3"
+    },
+    {
+      "id": 7,
+      "title": "Cloud Security",
+      "description": "Description of Event 3",
+      "poster": "path/to/poster3.jpg",
+      "date": "2024-03-12",
+      "start_time": "17:00:00",
+      "end_time": "19:00:00",
+      "venue": "Venue 3",
+      "organiser": "Organiser 1",
+      "registration_link": "http://registration.link/event3",
+      "feedback_link": "http://feedback.link/event3"
+    },
+    {
+      "id": 8,
+      "title": "CTF - Why and How?",
+      "description": "Description of Event 3",
+      "poster": "path/to/poster3.jpg",
+      "date": "2024-03-12",
+      "start_time": "17:00:00",
+      "end_time": "19:00:00",
+      "venue": "Venue 3",
+      "organiser": "Organiser 1",
+      "registration_link": "http://registration.link/event3",
+      "feedback_link": "http://feedback.link/event3"
+    },
+    {
+      "id": 9,
+      "title": "Hidden SQLi Village:Database Ninja Techniques",
+      "description": "Description of Event 3",
+      "poster": "path/to/poster3.jpg",
+      "date": "2024-03-12",
+      "start_time": "17:00:00",
+      "end_time": "19:00:00",
+      "venue": "Venue 3",
+      "organiser": "Organiser 1",
+      "registration_link": "http://registration.link/event3",
+      "feedback_link": "http://feedback.link/event3"
+    }
+  ]
+  
+}
